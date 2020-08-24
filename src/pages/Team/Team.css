@@ -20,3 +20,22 @@ img{
     font-size: 40px;
     font-weight: 600;
 }
+
+.breadcrumb > .active{
+    color: black!important;
+    font-size: 1.2rem!important;
+}
+.breadcrumb a{
+    color:#7B8788!important;
+    font-size: 1.2rem!important;
+}
+hr{
+    height: 0.5rem!important;
+    border: none!important;
+    background-color:#E5B143;
+        
+}
+.hr{
+    /* position: relative;
+    right: 3rem; */
+}
